@@ -1,4 +1,4 @@
-* git clone 
+* git clone https://github.com/ericet/celo-learn.git
 * cd celo-learn
 * npm install
 * Replace <API KEY> in .env file with your API KEY
