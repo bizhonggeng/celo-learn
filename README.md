@@ -5,15 +5,19 @@
 
 #1
 * node connect.js
+
 #2
 * node create_account.js
 * Copy address and private key from output of connect.js into .env
+
 #3
 * node query.js
+
 #4
 * Get free testnet tokens: https://celo.org/developers/faucet
 * node transfer.js
 * node exchange.js
+
 #5
 * npm install -g truffle
 * truffle compile
