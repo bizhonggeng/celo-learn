@@ -22,7 +22,7 @@ Datahub Link: https://datahub.figment.io/services/celo
 
 #5
 * npm install -g truffle
-* cd celo-contract
+* cd celo_contract
 * truffle compile
 * truffle migrate --network alfajores
 * cd ..
