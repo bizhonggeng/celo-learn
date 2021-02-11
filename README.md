@@ -20,6 +20,7 @@
 
 #5
 * npm install -g truffle
+* cd celo-contract
 * truffle compile
 * truffle migrate --network alfajores
 * cd ..
