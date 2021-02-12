@@ -2,7 +2,7 @@ Datahub Link: https://datahub.figment.io/services/celo
 
 * git clone https://github.com/ericet/celo-learn.git
 * cd celo-learn
-#update nodejs
+* apt install npm
 * curl -sL https://deb.nodesource.com/setup_14.x | sudo -E bash -
 * sudo apt-get install -y nodejs
 * npm install
