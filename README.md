@@ -3,7 +3,7 @@ Datahub Link: https://datahub.figment.io/services/celo
 * git clone https://github.com/ericet/celo-learn.git
 * cd celo-learn
 * npm install
-* Replace <API KEY> in .env file with your API KEY
+* Replace < API KEY > in .env file with your API KEY
 
 #1
 * node connect.js
