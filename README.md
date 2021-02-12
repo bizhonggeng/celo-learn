@@ -1,5 +1,5 @@
-Datahub Link: https://datahub.figment.io/services/celo
-
+> Ubuntu 18.04 4G Memory test.
+> Datahub Link: https://datahub.figment.io/services/celo
 * git clone https://github.com/ericet/celo-learn.git
 * cd celo-learn
 * apt install npm
