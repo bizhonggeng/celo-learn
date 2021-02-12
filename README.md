@@ -14,6 +14,7 @@ Datahub Link: https://datahub.figment.io/services/celo
 
 #3
 * node query.js
+(Hint: If you can't pass this, do #4)
 
 #4
 * Get free testnet tokens: https://celo.org/developers/faucet
